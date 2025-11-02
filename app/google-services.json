@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991847914320",
+    "project_id": "taskmate-26cf5",
+    "storage_bucket": "taskmate-26cf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991847914320:android:0feaff3effc42c1ec16a55",
+        "android_client_info": {
+          "package_name": "com.siriha.taskmatesmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpfRZnV55-o4K93Qcp6TkNG7_sB4pBlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskMate Smart</string>
+    <string name="title_activity_auth">Authentication</string>
+</resources>
